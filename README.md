@@ -3,7 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="margin-left: 20px;"/>
 
- I'm a Fullstack Developer currently studying Informatics Engineering at Universidad del Norte Santo Tomás de Aquino in Argentina. I am expanding my knowledge in both front-end and back-end development. In my free time, I enjoy working on personal projects, studying cybersecurity, and writing my own blog to share my knowledge and experiences.
+ I'm a Fullstack Developer currently studying Informatics Engineering at Universidad del Norte Santo Tomás de Aquino in Argentina. 
+ I am expanding my knowledge in both front-end and back-end development. 
+ In my free time, I enjoy working on personal projects, studying cybersecurity, and writing my own blog to share my knowledge and experiences.
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside of tech, I have a passion for playing football ⚽, diving into video games 🎮, listening to music 🎵, and exploring science books 📖.
