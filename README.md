@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Santiago Delgado </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="margin-left: 20px;"/>
 
  I'm a Fullstack Developer currently studying Informatics Engineering at Universidad del Norte Santo Tomás de Aquino in Argentina. I am expanding my knowledge in both front-end and back-end development. In my free time, I enjoy working on personal projects, studying cybersecurity, and writing my own blog to share my knowledge and experiences.
 - 👯 I’m looking forward to collaborate on open source projects.
